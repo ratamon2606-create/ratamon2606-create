@@ -1,4 +1,4 @@
-# KU Tech — Production Infrastructure & Release Safety
+# KU Tech Production Infrastructure & Release Safety
 
 **Role:** Infrastructure Lead, KU Tech (student organization at Kasetsart University)  
 **Project period:** 2026 · **Evidence window:** October–November 2026  
