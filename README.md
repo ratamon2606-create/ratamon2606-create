@@ -6,7 +6,7 @@ Currently serving as **Infrastructure Lead at KU Tech**, with hands-on experienc
 
 I'm interested in **DevOps, Site Reliability Engineering (SRE), and Platform Engineering**.
 
-## 💻 Technical Skills
+## Technical Skills
 
 **Infrastructure & DevOps:** Linux, Docker, GitHub Actions, CI/CD, Bash
 
