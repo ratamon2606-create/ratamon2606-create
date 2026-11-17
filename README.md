@@ -19,6 +19,9 @@ I'm interested in **DevOps, Site Reliability Engineering (SRE), and Platform Eng
 ### KU Tech — Infrastructure Operations
 Maintaining production web services and developing deployment automation with approval verification, health checks, security updates, and failure notifications.
 
+### [Docker CI Pipeline](https://github.com/ratamon2606-create/CI-CD-Pipeline)
+A GitHub Actions CI/CD project featuring automated HTTP tests, Docker builds, container smoke tests, and Docker Hub publishing.
+
 ### [AXIS — University Information Platform](https://github.com/ratamon2606-create/AXIS)
 A full-stack university information platform with role-based access control, file management, and automated CI checks.
 
