@@ -21,6 +21,10 @@ Maintaining production web services and developing deployment automation with ap
 
 [Read my Infrastructure Case Study](docs/ku-tech-infrastructure-case-study.md)
 
+### [FreeSize — Self-Hosted Social Wardrobe Platform](https://github.com/ratamon2606-create/freesize)
+
+A collaborative web application featuring a hybrid PostgreSQL/MongoDB architecture, Docker-based services, five-job GitHub Actions CI, GHCR publishing, and guarded deployment automation to a private Ubuntu host with health checks and rollback safeguards.
+
 ### [Docker CI Pipeline](https://github.com/ratamon2606-create/CI-CD-Pipeline)
 A GitHub Actions CI/CD project featuring automated HTTP tests, Docker builds, container smoke tests, and Docker Hub publishing.
 
